@@ -12,7 +12,7 @@ This project generates example datasets, runs **AI Feynman** on them, and collec
    ```
 2. Run the data generation script:
    ```bash
-   python Dataget.py
+   python Datagen.py
    ```
 3. Move the generated data files into the `example_data` folder:
    ```bash
